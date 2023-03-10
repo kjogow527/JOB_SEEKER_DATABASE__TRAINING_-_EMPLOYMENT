@@ -1,0 +1,13 @@
+name: MH_EMPLOYMENT_APP
+title: MH_EMPLOYMENT_APP
+username:
+account: kylewog
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7938710
+bundleId: 6671227
+url: https://kylewog.shinyapps.io/MH_EMPLOYMENT_APP/
+when: 1671917215.30173
+lastSyncTime: 1671917215.30174
+asMultiple: FALSE
+asStatic: FALSE
